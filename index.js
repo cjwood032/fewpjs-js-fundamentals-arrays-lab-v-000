@@ -2,6 +2,6 @@
 let pets =  ["Milo", "Otis", "Garfield", "Odie"]
 
 const append = (pets) =>{
-  return pets.append("Odie")
-  
+   pets.append("Odie")
+  return pets
 }
