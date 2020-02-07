@@ -4,7 +4,7 @@ let prepend = ["Milo", "Otis", "Garfield"]
 let removeLast = ["Milo", "Otis", "Garfield"]
 let removeFirst = ["Milo", "Otis", "Garfield"]
 append.push("Odie")
-prepend.shift("Odie")
+prepend.unshift("Odie")
 removeLast.pop("Odie")
-removeFirst.unshift("Odie")
+removeFirst.shift("Odie")
 
