@@ -1,4 +1,4 @@
 // Write your solution here!
 const append () {
-  return []
+  return ["Milo", "Otis", "Garfield", "Odie"]
 }
